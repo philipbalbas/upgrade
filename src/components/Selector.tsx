@@ -1,5 +1,4 @@
-// import * as Select from "~/components/ui/select";
-import { Select } from "@ark-ui/solid";
+import * as Select from "~/components/ui/select";
 import { Index, Portal } from "solid-js/web";
 
 export default function Selector() {
